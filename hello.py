@@ -1,0 +1,1 @@
+print('for python practices only')
