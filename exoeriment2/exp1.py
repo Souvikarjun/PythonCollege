@@ -14,5 +14,5 @@ addition = z1 + z2
  
 subtraction = z1 - z2
 
-# print("After addition the complex number is ", addition)
-# print("After subtraction the complex number is ", subtraction)
+print("After addition the complex number is ", addition)
+print("After subtraction the complex number is ", subtraction)
