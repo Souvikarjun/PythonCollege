@@ -8,12 +8,12 @@ sum2 = 0
 
 if(len(str(number)) == 6): 
     for digits in str(number) :
-        sum1 = sum1 + (int(digits)*10 + position1)
+        sum1 = sum1 + (int(digits)**position1)
         position1 -= 1
 
 if(len(str(number)) == 6): 
     for digits in str(number) :
-        sum2 = sum2 + (int(digits)*10 + position2)
+        sum2 = sum2 + (int(digits)**position2)
         position2 += 1
 
     # while number :
