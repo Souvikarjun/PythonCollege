@@ -16,10 +16,10 @@
 # else:
 #     print("no")
 
-Age = int(input("Input age: "))
+# Age = int(input("Input age: "))
 
-if Age>18:
-    if Age < 65:
-        print("eligible")
-    else :
-        print("you are too old")
+# if Age>18:
+#     if Age < 65:
+#         print("eligible")
+#     else :
+#         print("you are too old")
