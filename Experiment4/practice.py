@@ -1,4 +1,6 @@
-#functions of strings
+import math
+
+"""#functions of strings
 mili_shayari = '''Hey Mili you are my butterfly
                     without Mili i will die
                     but Mili always makes me cry'''
@@ -97,4 +99,12 @@ print(tup1.index(5))
 
 p = eval(input("input: "))
 
-print(p)
+print(p) """
+
+Let=(1,2,5,6,33,2,5)
+print(min(Let))
+print(max(Let))
+
+new = math.ceil(29.8)
+print(new)
+print(math.fabs(-9))
