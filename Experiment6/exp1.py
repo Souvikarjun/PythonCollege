@@ -1,6 +1,6 @@
 def foo(n, p):
     if(n==0):
-        exit
+        return 0
     else:
         K = n%10
         n = int(n/10)
